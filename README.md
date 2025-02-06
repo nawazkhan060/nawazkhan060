@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nawazkhan060
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on anything which will provide me more knowledge
-- 📫 How to reach me ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love snippets :)
 
