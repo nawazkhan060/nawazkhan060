@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning node js
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love snippets :)
+- AURA NAWAZZZ
 
 <!---
 nawazkhan060/nawazkhan060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
