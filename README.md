@@ -4,7 +4,7 @@
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love snippets :)
 - AURA NAWAZZZ
-
+nawaaz
 <!---
 nawazkhan060/nawazkhan060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
